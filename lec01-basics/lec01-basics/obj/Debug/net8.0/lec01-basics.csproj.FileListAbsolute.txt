@@ -1,0 +1,14 @@
+C:\Users\yk033\source\C#-Journey26\lec01-basics\lec01-basics\bin\Debug\net8.0\lec01-basics.exe
+C:\Users\yk033\source\C#-Journey26\lec01-basics\lec01-basics\bin\Debug\net8.0\lec01-basics.deps.json
+C:\Users\yk033\source\C#-Journey26\lec01-basics\lec01-basics\bin\Debug\net8.0\lec01-basics.runtimeconfig.json
+C:\Users\yk033\source\C#-Journey26\lec01-basics\lec01-basics\bin\Debug\net8.0\lec01-basics.dll
+C:\Users\yk033\source\C#-Journey26\lec01-basics\lec01-basics\bin\Debug\net8.0\lec01-basics.pdb
+C:\Users\yk033\source\C#-Journey26\lec01-basics\lec01-basics\obj\Debug\net8.0\lec01-basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yk033\source\C#-Journey26\lec01-basics\lec01-basics\obj\Debug\net8.0\lec01-basics.AssemblyInfoInputs.cache
+C:\Users\yk033\source\C#-Journey26\lec01-basics\lec01-basics\obj\Debug\net8.0\lec01-basics.AssemblyInfo.cs
+C:\Users\yk033\source\C#-Journey26\lec01-basics\lec01-basics\obj\Debug\net8.0\lec01-basics.csproj.CoreCompileInputs.cache
+C:\Users\yk033\source\C#-Journey26\lec01-basics\lec01-basics\obj\Debug\net8.0\lec01-basics.dll
+C:\Users\yk033\source\C#-Journey26\lec01-basics\lec01-basics\obj\Debug\net8.0\refint\lec01-basics.dll
+C:\Users\yk033\source\C#-Journey26\lec01-basics\lec01-basics\obj\Debug\net8.0\lec01-basics.pdb
+C:\Users\yk033\source\C#-Journey26\lec01-basics\lec01-basics\obj\Debug\net8.0\lec01-basics.genruntimeconfig.cache
+C:\Users\yk033\source\C#-Journey26\lec01-basics\lec01-basics\obj\Debug\net8.0\ref\lec01-basics.dll
