@@ -1,0 +1,14 @@
+C:\Users\yk033\source\C#-Journey26\lec02-operators_typecasting_inputs_loops\lec02-operators_typecasting_inputs_loops\obj\Debug\net8.0\lec02-operators_typecasting_inputs_loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yk033\source\C#-Journey26\lec02-operators_typecasting_inputs_loops\lec02-operators_typecasting_inputs_loops\obj\Debug\net8.0\lec02-operators_typecasting_inputs_loops.AssemblyInfoInputs.cache
+C:\Users\yk033\source\C#-Journey26\lec02-operators_typecasting_inputs_loops\lec02-operators_typecasting_inputs_loops\obj\Debug\net8.0\lec02-operators_typecasting_inputs_loops.AssemblyInfo.cs
+C:\Users\yk033\source\C#-Journey26\lec02-operators_typecasting_inputs_loops\lec02-operators_typecasting_inputs_loops\obj\Debug\net8.0\lec02-operators_typecasting_inputs_loops.csproj.CoreCompileInputs.cache
+C:\Users\yk033\source\C#-Journey26\lec02-operators_typecasting_inputs_loops\lec02-operators_typecasting_inputs_loops\bin\Debug\net8.0\lec02-operators_typecasting_inputs_loops.exe
+C:\Users\yk033\source\C#-Journey26\lec02-operators_typecasting_inputs_loops\lec02-operators_typecasting_inputs_loops\bin\Debug\net8.0\lec02-operators_typecasting_inputs_loops.deps.json
+C:\Users\yk033\source\C#-Journey26\lec02-operators_typecasting_inputs_loops\lec02-operators_typecasting_inputs_loops\bin\Debug\net8.0\lec02-operators_typecasting_inputs_loops.runtimeconfig.json
+C:\Users\yk033\source\C#-Journey26\lec02-operators_typecasting_inputs_loops\lec02-operators_typecasting_inputs_loops\bin\Debug\net8.0\lec02-operators_typecasting_inputs_loops.dll
+C:\Users\yk033\source\C#-Journey26\lec02-operators_typecasting_inputs_loops\lec02-operators_typecasting_inputs_loops\bin\Debug\net8.0\lec02-operators_typecasting_inputs_loops.pdb
+C:\Users\yk033\source\C#-Journey26\lec02-operators_typecasting_inputs_loops\lec02-operators_typecasting_inputs_loops\obj\Debug\net8.0\lec02-operators_typecasting_inputs_loops.dll
+C:\Users\yk033\source\C#-Journey26\lec02-operators_typecasting_inputs_loops\lec02-operators_typecasting_inputs_loops\obj\Debug\net8.0\refint\lec02-operators_typecasting_inputs_loops.dll
+C:\Users\yk033\source\C#-Journey26\lec02-operators_typecasting_inputs_loops\lec02-operators_typecasting_inputs_loops\obj\Debug\net8.0\lec02-operators_typecasting_inputs_loops.pdb
+C:\Users\yk033\source\C#-Journey26\lec02-operators_typecasting_inputs_loops\lec02-operators_typecasting_inputs_loops\obj\Debug\net8.0\lec02-operators_typecasting_inputs_loops.genruntimeconfig.cache
+C:\Users\yk033\source\C#-Journey26\lec02-operators_typecasting_inputs_loops\lec02-operators_typecasting_inputs_loops\obj\Debug\net8.0\ref\lec02-operators_typecasting_inputs_loops.dll
