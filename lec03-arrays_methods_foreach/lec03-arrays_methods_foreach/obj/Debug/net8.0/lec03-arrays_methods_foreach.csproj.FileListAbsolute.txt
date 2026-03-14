@@ -1,0 +1,15 @@
+C:\Users\yk033\source\CSharp-Journey26\lec03-arrays_methods_foreach\lec03-arrays_methods_foreach\bin\Debug\net8.0\lec03-arrays_methods_foreach.exe
+C:\Users\yk033\source\CSharp-Journey26\lec03-arrays_methods_foreach\lec03-arrays_methods_foreach\bin\Debug\net8.0\lec03-arrays_methods_foreach.deps.json
+C:\Users\yk033\source\CSharp-Journey26\lec03-arrays_methods_foreach\lec03-arrays_methods_foreach\bin\Debug\net8.0\lec03-arrays_methods_foreach.runtimeconfig.json
+C:\Users\yk033\source\CSharp-Journey26\lec03-arrays_methods_foreach\lec03-arrays_methods_foreach\bin\Debug\net8.0\lec03-arrays_methods_foreach.dll
+C:\Users\yk033\source\CSharp-Journey26\lec03-arrays_methods_foreach\lec03-arrays_methods_foreach\bin\Debug\net8.0\lec03-arrays_methods_foreach.pdb
+C:\Users\yk033\source\CSharp-Journey26\lec03-arrays_methods_foreach\lec03-arrays_methods_foreach\obj\Debug\net8.0\lec03-arrays_methods_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yk033\source\CSharp-Journey26\lec03-arrays_methods_foreach\lec03-arrays_methods_foreach\obj\Debug\net8.0\lec03-arrays_methods_foreach.AssemblyInfoInputs.cache
+C:\Users\yk033\source\CSharp-Journey26\lec03-arrays_methods_foreach\lec03-arrays_methods_foreach\obj\Debug\net8.0\lec03-arrays_methods_foreach.AssemblyInfo.cs
+C:\Users\yk033\source\CSharp-Journey26\lec03-arrays_methods_foreach\lec03-arrays_methods_foreach\obj\Debug\net8.0\lec03-arrays_methods_foreach.csproj.CoreCompileInputs.cache
+C:\Users\yk033\source\CSharp-Journey26\lec03-arrays_methods_foreach\lec03-arrays_methods_foreach\obj\Debug\net8.0\lec03-arrays_methods_foreach.sourcelink.json
+C:\Users\yk033\source\CSharp-Journey26\lec03-arrays_methods_foreach\lec03-arrays_methods_foreach\obj\Debug\net8.0\lec03-arrays_methods_foreach.dll
+C:\Users\yk033\source\CSharp-Journey26\lec03-arrays_methods_foreach\lec03-arrays_methods_foreach\obj\Debug\net8.0\refint\lec03-arrays_methods_foreach.dll
+C:\Users\yk033\source\CSharp-Journey26\lec03-arrays_methods_foreach\lec03-arrays_methods_foreach\obj\Debug\net8.0\lec03-arrays_methods_foreach.pdb
+C:\Users\yk033\source\CSharp-Journey26\lec03-arrays_methods_foreach\lec03-arrays_methods_foreach\obj\Debug\net8.0\lec03-arrays_methods_foreach.genruntimeconfig.cache
+C:\Users\yk033\source\CSharp-Journey26\lec03-arrays_methods_foreach\lec03-arrays_methods_foreach\obj\Debug\net8.0\ref\lec03-arrays_methods_foreach.dll

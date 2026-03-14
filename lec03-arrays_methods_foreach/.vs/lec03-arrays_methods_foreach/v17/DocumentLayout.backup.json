@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yk033\\source\\CSharp-Journey26\\lec03-arrays_methods_foreach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B08F6097-3635-49A1-915F-0EA828A593BA}|lec03-arrays_methods_foreach\\lec03-arrays_methods_foreach.csproj|c:\\users\\yk033\\source\\csharp-journey26\\lec03-arrays_methods_foreach\\lec03-arrays_methods_foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08F6097-3635-49A1-915F-0EA828A593BA}|lec03-arrays_methods_foreach\\lec03-arrays_methods_foreach.csproj|solutionrelative:lec03-arrays_methods_foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yk033\\source\\CSharp-Journey26\\lec03-arrays_methods_foreach\\lec03-arrays_methods_foreach\\Program.cs",
+              "RelativeDocumentMoniker": "lec03-arrays_methods_foreach\\Program.cs",
+              "ToolTip": "C:\\Users\\yk033\\source\\CSharp-Journey26\\lec03-arrays_methods_foreach\\lec03-arrays_methods_foreach\\Program.cs*",
+              "RelativeToolTip": "lec03-arrays_methods_foreach\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwBoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T11:21:53.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
