@@ -1,0 +1,15 @@
+C:\Users\yk033\source\CSharp-Journey26\lec04-mini_project\lec04-mini_project\bin\Debug\net8.0\lec04-mini_project.exe
+C:\Users\yk033\source\CSharp-Journey26\lec04-mini_project\lec04-mini_project\bin\Debug\net8.0\lec04-mini_project.deps.json
+C:\Users\yk033\source\CSharp-Journey26\lec04-mini_project\lec04-mini_project\bin\Debug\net8.0\lec04-mini_project.runtimeconfig.json
+C:\Users\yk033\source\CSharp-Journey26\lec04-mini_project\lec04-mini_project\bin\Debug\net8.0\lec04-mini_project.dll
+C:\Users\yk033\source\CSharp-Journey26\lec04-mini_project\lec04-mini_project\bin\Debug\net8.0\lec04-mini_project.pdb
+C:\Users\yk033\source\CSharp-Journey26\lec04-mini_project\lec04-mini_project\obj\Debug\net8.0\lec04-mini_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yk033\source\CSharp-Journey26\lec04-mini_project\lec04-mini_project\obj\Debug\net8.0\lec04-mini_project.AssemblyInfoInputs.cache
+C:\Users\yk033\source\CSharp-Journey26\lec04-mini_project\lec04-mini_project\obj\Debug\net8.0\lec04-mini_project.AssemblyInfo.cs
+C:\Users\yk033\source\CSharp-Journey26\lec04-mini_project\lec04-mini_project\obj\Debug\net8.0\lec04-mini_project.csproj.CoreCompileInputs.cache
+C:\Users\yk033\source\CSharp-Journey26\lec04-mini_project\lec04-mini_project\obj\Debug\net8.0\lec04-mini_project.sourcelink.json
+C:\Users\yk033\source\CSharp-Journey26\lec04-mini_project\lec04-mini_project\obj\Debug\net8.0\lec04-mini_project.dll
+C:\Users\yk033\source\CSharp-Journey26\lec04-mini_project\lec04-mini_project\obj\Debug\net8.0\refint\lec04-mini_project.dll
+C:\Users\yk033\source\CSharp-Journey26\lec04-mini_project\lec04-mini_project\obj\Debug\net8.0\lec04-mini_project.pdb
+C:\Users\yk033\source\CSharp-Journey26\lec04-mini_project\lec04-mini_project\obj\Debug\net8.0\lec04-mini_project.genruntimeconfig.cache
+C:\Users\yk033\source\CSharp-Journey26\lec04-mini_project\lec04-mini_project\obj\Debug\net8.0\ref\lec04-mini_project.dll
