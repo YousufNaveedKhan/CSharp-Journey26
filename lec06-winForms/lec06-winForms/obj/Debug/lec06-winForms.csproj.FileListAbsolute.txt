@@ -1,0 +1,10 @@
+C:\Users\yk033\source\CSharp-Journey26\lec06-winForms\lec06-winForms\bin\Debug\lec06-winForms.exe.config
+C:\Users\yk033\source\CSharp-Journey26\lec06-winForms\lec06-winForms\bin\Debug\lec06-winForms.exe
+C:\Users\yk033\source\CSharp-Journey26\lec06-winForms\lec06-winForms\bin\Debug\lec06-winForms.pdb
+C:\Users\yk033\source\CSharp-Journey26\lec06-winForms\lec06-winForms\obj\Debug\lec06-winForms.csproj.AssemblyReference.cache
+C:\Users\yk033\source\CSharp-Journey26\lec06-winForms\lec06-winForms\obj\Debug\lec06_winForms.Form1.resources
+C:\Users\yk033\source\CSharp-Journey26\lec06-winForms\lec06-winForms\obj\Debug\lec06_winForms.Properties.Resources.resources
+C:\Users\yk033\source\CSharp-Journey26\lec06-winForms\lec06-winForms\obj\Debug\lec06-winForms.csproj.GenerateResource.cache
+C:\Users\yk033\source\CSharp-Journey26\lec06-winForms\lec06-winForms\obj\Debug\lec06-winForms.csproj.CoreCompileInputs.cache
+C:\Users\yk033\source\CSharp-Journey26\lec06-winForms\lec06-winForms\obj\Debug\lec06-winForms.exe
+C:\Users\yk033\source\CSharp-Journey26\lec06-winForms\lec06-winForms\obj\Debug\lec06-winForms.pdb
