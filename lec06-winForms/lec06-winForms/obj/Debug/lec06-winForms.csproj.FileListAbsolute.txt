@@ -8,3 +8,4 @@ C:\Users\yk033\source\CSharp-Journey26\lec06-winForms\lec06-winForms\obj\Debug\l
 C:\Users\yk033\source\CSharp-Journey26\lec06-winForms\lec06-winForms\obj\Debug\lec06-winForms.csproj.CoreCompileInputs.cache
 C:\Users\yk033\source\CSharp-Journey26\lec06-winForms\lec06-winForms\obj\Debug\lec06-winForms.exe
 C:\Users\yk033\source\CSharp-Journey26\lec06-winForms\lec06-winForms\obj\Debug\lec06-winForms.pdb
+C:\Users\yk033\source\CSharp-Journey26\lec06-winForms\lec06-winForms\obj\Debug\lec06-winForms.exe.config

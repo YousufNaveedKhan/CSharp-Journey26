@@ -1,0 +1,11 @@
+C:\Users\yk033\source\CSharp-Journey26\lec07-studentapp\lec07-studentapp\bin\Debug\lec07-studentapp.exe.config
+C:\Users\yk033\source\CSharp-Journey26\lec07-studentapp\lec07-studentapp\bin\Debug\lec07-studentapp.exe
+C:\Users\yk033\source\CSharp-Journey26\lec07-studentapp\lec07-studentapp\bin\Debug\lec07-studentapp.pdb
+C:\Users\yk033\source\CSharp-Journey26\lec07-studentapp\lec07-studentapp\obj\Debug\lec07-studentapp.csproj.AssemblyReference.cache
+C:\Users\yk033\source\CSharp-Journey26\lec07-studentapp\lec07-studentapp\obj\Debug\lec07_studentapp.Form1.resources
+C:\Users\yk033\source\CSharp-Journey26\lec07-studentapp\lec07-studentapp\obj\Debug\lec07_studentapp.Properties.Resources.resources
+C:\Users\yk033\source\CSharp-Journey26\lec07-studentapp\lec07-studentapp\obj\Debug\lec07-studentapp.csproj.GenerateResource.cache
+C:\Users\yk033\source\CSharp-Journey26\lec07-studentapp\lec07-studentapp\obj\Debug\lec07-studentapp.csproj.CoreCompileInputs.cache
+C:\Users\yk033\source\CSharp-Journey26\lec07-studentapp\lec07-studentapp\obj\Debug\lec07-studentapp.exe
+C:\Users\yk033\source\CSharp-Journey26\lec07-studentapp\lec07-studentapp\obj\Debug\lec07-studentapp.pdb
+C:\Users\yk033\source\CSharp-Journey26\lec07-studentapp\lec07-studentapp\obj\Debug\lec07-studentapp.exe.config
