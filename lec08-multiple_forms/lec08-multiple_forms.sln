@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lec08-multiple_forms", "lec08-multiple_forms\lec08-multiple_forms.csproj", "{790D28CE-D394-41D2-9F0C-8510A821103F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{790D28CE-D394-41D2-9F0C-8510A821103F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{790D28CE-D394-41D2-9F0C-8510A821103F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{790D28CE-D394-41D2-9F0C-8510A821103F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{790D28CE-D394-41D2-9F0C-8510A821103F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A457DEC-E840-4583-8CEC-2A005557C9AF}
+	EndGlobalSection
+EndGlobal

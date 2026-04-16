@@ -1,0 +1,12 @@
+C:\Users\yk033\source\CSharp-Journey26\lec08-multiple_forms\lec08-multiple_forms\bin\Debug\lec08-multiple_forms.exe.config
+C:\Users\yk033\source\CSharp-Journey26\lec08-multiple_forms\lec08-multiple_forms\bin\Debug\lec08-multiple_forms.exe
+C:\Users\yk033\source\CSharp-Journey26\lec08-multiple_forms\lec08-multiple_forms\bin\Debug\lec08-multiple_forms.pdb
+C:\Users\yk033\source\CSharp-Journey26\lec08-multiple_forms\lec08-multiple_forms\obj\Debug\lec08-multiple_forms.csproj.AssemblyReference.cache
+C:\Users\yk033\source\CSharp-Journey26\lec08-multiple_forms\lec08-multiple_forms\obj\Debug\lec08_multiple_forms.Form1.resources
+C:\Users\yk033\source\CSharp-Journey26\lec08-multiple_forms\lec08-multiple_forms\obj\Debug\lec08_multiple_forms.Properties.Resources.resources
+C:\Users\yk033\source\CSharp-Journey26\lec08-multiple_forms\lec08-multiple_forms\obj\Debug\lec08-multiple_forms.csproj.GenerateResource.cache
+C:\Users\yk033\source\CSharp-Journey26\lec08-multiple_forms\lec08-multiple_forms\obj\Debug\lec08-multiple_forms.csproj.CoreCompileInputs.cache
+C:\Users\yk033\source\CSharp-Journey26\lec08-multiple_forms\lec08-multiple_forms\obj\Debug\lec08-multiple_forms.exe
+C:\Users\yk033\source\CSharp-Journey26\lec08-multiple_forms\lec08-multiple_forms\obj\Debug\lec08-multiple_forms.pdb
+C:\Users\yk033\source\CSharp-Journey26\lec08-multiple_forms\lec08-multiple_forms\obj\Debug\lec08-multiple_forms.exe.config
+C:\Users\yk033\source\CSharp-Journey26\lec08-multiple_forms\lec08-multiple_forms\obj\Debug\lec08_multiple_forms.DashboardForm.resources
