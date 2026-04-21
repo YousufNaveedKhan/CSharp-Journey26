@@ -1,0 +1,11 @@
+C:\Users\yk033\source\CSharp-Journey26\lec09-POSAPP\lec09-POSAPP\bin\Debug\lec09-POSAPP.exe.config
+C:\Users\yk033\source\CSharp-Journey26\lec09-POSAPP\lec09-POSAPP\bin\Debug\lec09-POSAPP.exe
+C:\Users\yk033\source\CSharp-Journey26\lec09-POSAPP\lec09-POSAPP\bin\Debug\lec09-POSAPP.pdb
+C:\Users\yk033\source\CSharp-Journey26\lec09-POSAPP\lec09-POSAPP\obj\Debug\lec09-POSAPP.csproj.AssemblyReference.cache
+C:\Users\yk033\source\CSharp-Journey26\lec09-POSAPP\lec09-POSAPP\obj\Debug\lec09_POSAPP.Form1.resources
+C:\Users\yk033\source\CSharp-Journey26\lec09-POSAPP\lec09-POSAPP\obj\Debug\lec09_POSAPP.Properties.Resources.resources
+C:\Users\yk033\source\CSharp-Journey26\lec09-POSAPP\lec09-POSAPP\obj\Debug\lec09-POSAPP.csproj.GenerateResource.cache
+C:\Users\yk033\source\CSharp-Journey26\lec09-POSAPP\lec09-POSAPP\obj\Debug\lec09-POSAPP.csproj.CoreCompileInputs.cache
+C:\Users\yk033\source\CSharp-Journey26\lec09-POSAPP\lec09-POSAPP\obj\Debug\lec09-POSAPP.exe
+C:\Users\yk033\source\CSharp-Journey26\lec09-POSAPP\lec09-POSAPP\obj\Debug\lec09-POSAPP.pdb
+C:\Users\yk033\source\CSharp-Journey26\lec09-POSAPP\lec09-POSAPP\obj\Debug\lec09-POSAPP.exe.config

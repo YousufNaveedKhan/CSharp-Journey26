@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "lec08-multiple_forms\\DashboardForm.cs",
               "ToolTip": "C:\\Users\\yk033\\source\\CSharp-Journey26\\lec08-multiple_forms\\lec08-multiple_forms\\DashboardForm.cs",
               "RelativeToolTip": "lec08-multiple_forms\\DashboardForm.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAkwCYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T19:33:44.535Z",
               "EditorCaption": ""
@@ -59,12 +59,11 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\yk033\\source\\CSharp-Journey26\\lec08-multiple_forms\\lec08-multiple_forms\\Form1.cs",
               "RelativeDocumentMoniker": "lec08-multiple_forms\\Form1.cs",
-              "ToolTip": "C:\\Users\\yk033\\source\\CSharp-Journey26\\lec08-multiple_forms\\lec08-multiple_forms\\Form1.cs*",
-              "RelativeToolTip": "lec08-multiple_forms\\Form1.cs*",
+              "ToolTip": "C:\\Users\\yk033\\source\\CSharp-Journey26\\lec08-multiple_forms\\lec08-multiple_forms\\Form1.cs",
+              "RelativeToolTip": "lec08-multiple_forms\\Form1.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAwB0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T19:25:07.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T19:25:07.665Z"
             },
             {
               "$type": "Document",
@@ -72,11 +71,10 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\yk033\\source\\CSharp-Journey26\\lec08-multiple_forms\\lec08-multiple_forms\\Form1.cs",
               "RelativeDocumentMoniker": "lec08-multiple_forms\\Form1.cs",
-              "ToolTip": "C:\\Users\\yk033\\source\\CSharp-Journey26\\lec08-multiple_forms\\lec08-multiple_forms\\Form1.cs [Design]*",
-              "RelativeToolTip": "lec08-multiple_forms\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\yk033\\source\\CSharp-Journey26\\lec08-multiple_forms\\lec08-multiple_forms\\Form1.cs [Design]",
+              "RelativeToolTip": "lec08-multiple_forms\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T19:20:55.389Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-04-16T19:20:55.389Z"
             }
           ]
         }
